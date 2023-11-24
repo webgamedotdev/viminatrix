@@ -2,7 +2,7 @@
 
 ## The Viminatrix
 
-Bride of Vimbot
+Bride of Vim
 
 ![vim](viminatrix.png)
-<em>Adapted from original photo by https://twitter.com/grobi_grafik</em>
+<em>Adapted from original photo via @artstationhq https://www.artstation.com/artwork/OYXok</em>
